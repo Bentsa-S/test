@@ -4,3 +4,9 @@ body{
 span{
     color: white;
 }
+nav {
+    color: blueviolet;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+}
